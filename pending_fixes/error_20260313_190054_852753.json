@@ -1,0 +1,6 @@
+{
+    "timestamp": "2026-03-13T19:00:54.852753",
+    "raw_log": "ZeroDivisionError: division by zero",
+    "target_file": "server.py",
+    "status": "pending_analysis"
+}

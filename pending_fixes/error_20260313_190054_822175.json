@@ -1,0 +1,6 @@
+{
+    "timestamp": "2026-03-13T19:00:54.822175",
+    "raw_log": "2026-03-13 19:00:51,609 [ERROR] Exception on /error [GET]",
+    "target_file": "server.py",
+    "status": "pending_analysis"
+}

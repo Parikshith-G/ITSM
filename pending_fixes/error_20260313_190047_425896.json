@@ -1,0 +1,6 @@
+{
+    "timestamp": "2026-03-13T19:00:47.425896",
+    "raw_log": "rv = self.handle_user_exception(e)",
+    "target_file": "server.py",
+    "status": "pending_analysis"
+}
