@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: jira-repo-automation
+Version: 0.1.0
+Summary: Automates Jira-driven code changes via Kiro spec generation
+Requires-Python: >=3.11
+Requires-Dist: jira==3.8.0
+Requires-Dist: GitPython==3.1.43
+Requires-Dist: python-dotenv==1.0.1
+Provides-Extra: dev
+Requires-Dist: hypothesis==6.131.15; extra == "dev"
+Requires-Dist: pytest==8.3.5; extra == "dev"
+Requires-Dist: pytest-cov==5.0.0; extra == "dev"

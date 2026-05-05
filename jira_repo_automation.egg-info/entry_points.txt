@@ -1,0 +1,2 @@
+[console_scripts]
+jira-repo-automation = jira_repo_automation.main:main
